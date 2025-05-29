@@ -5,7 +5,7 @@
   Para testes
 
 ``
-  npm instal react
+  node app.js
 ``
 
   
